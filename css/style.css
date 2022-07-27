@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400;500;600;700&display=swap');
+
+
+
+body {
+    background: url(../img/14130.gif);
+    height: 95vh;
+}
+
+.style_output {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.style_div {
+    width: 30%;
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 0px 0px 20px 5px rgb(255, 4, 4);
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    color: white;
+    text-align: center;
+    margin-top: 5%
+}
+
+.style_input {
+    margin: 5% 10%;
+    width: 50%;
+    font-size: 15vh;
+    color: rgba(12, 28, 249, 0.782);
+    background-color: black;
+    box-shadow: 0px 0px 20px 5px rgb(255, 4, 4);
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+
+}
+
+.style_btn {
+    width: 10%;
+    font-size: 5vh;
+    color: red;
+    background-color: black;
+    box-shadow: 0px 0px 20px 5px rgba(12, 180, 227, 0.912);
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+
+}
+
+.style_select {
+    width: 10%;
+    font-size: 5vh;
+    color: red;
+    background-color: black;
+    box-shadow: 0px 0px 20px 5px rgba(12, 180, 227, 0.912);
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    text-align: center;
+    margin-left: 5%;
+}
